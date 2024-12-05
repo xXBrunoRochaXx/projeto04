@@ -3,6 +3,7 @@
 
   & img[src*="bars"]{
     width: 12.875rem;
+    
   }
 
   & p{
@@ -37,7 +38,8 @@
 
   & p{
     margin-top: 1rem;
-    font-size: 2.5rem;
+    /* font-size: 2.5rem; */
+    color: var(--text-color-secondary);
   }
 
   & .buttons{
